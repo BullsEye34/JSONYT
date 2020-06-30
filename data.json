@@ -1,0 +1,52 @@
+[
+    {
+        "SlNo": 1,
+        "Name": "Tim Cook",
+        "Type": "CEO"
+    },
+    {
+        "SlNo": 2,
+        "Name": "Justine",
+        "Type": "YouTuber"
+    },
+    {
+        "SlNo": 3,
+        "Name": "Jerry",
+        "Type": "YouTuber"
+    },
+    {
+        "SlNo": 4,
+        "Name": "Zack",
+        "Type": "YouTuber"
+    },
+    {
+        "SlNo": 5,
+        "Name": "Marques",
+        "Type": "YouTuber"
+    },
+    {
+        "SlNo": 6,
+        "Name": "Linus",
+        "Type": "YouTuber"
+    },
+    {
+        "SlNo": 7,
+        "Name": "Lewis",
+        "Type": "YouTuber"
+    },
+    {
+        "SlNo": 8,
+        "Name": "Austin",
+        "Type": "YouTuber"
+    },
+    {
+        "SlNo": 9,
+        "Name": "Dan",
+        "Type": "SVP"
+    },
+    {
+        "SlNo": 10,
+        "Name": "Logan",
+        "Type": "Wolverine"
+    }
+]
